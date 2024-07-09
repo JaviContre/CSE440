@@ -45,7 +45,7 @@ There are two phases for this project:
 2. Implementing, training, and testing the perceptron.
 Dataset Loading
 
-I imported the data and split it into training and testing sets. The following lines load the UCI ML Breast Cancer Wisconsin (Diagnostic) Data Set, which contains 569 cases of tumors (each represented by 30 measurements). I split this data into 500 training cases and the rest for testing.
+I imported the data and split it into training and testing sets. The code loads the UCI ML Breast Cancer Wisconsin (Diagnostic) Data Set, which contains 569 cases of tumors (each represented by 30 measurements). I split this data into 500 training cases and the rest for testing.
 
 Perceptron Model
 
