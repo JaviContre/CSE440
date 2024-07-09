@@ -46,3 +46,11 @@ There are two phases for this project:
 Dataset Loading
 
 I imported the data and split it into training and testing sets. The following lines load the UCI ML Breast Cancer Wisconsin (Diagnostic) Data Set, which contains 569 cases of tumors (each represented by 30 measurements). I split this data into 500 training cases and the rest for testing.
+
+Perceptron Model
+
+The perceptron model consists of initializing weights and bias, predicting outputs, and training and testing the model.
+
+Conclusion
+
+The binary perceptron implementation highlights the process of building, training, and testing a simple neural network for tumor classification, achieving high accuracy without relying on external libraries for the perceptron algorithm itself.
