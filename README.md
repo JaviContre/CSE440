@@ -31,3 +31,18 @@ Custom search problems are created to handle specific scenarios within the Pacma
 Conclusion
 
 This project demonstrates the application of fundamental search algorithms to navigate Pacman through various mazes and scenarios. By implementing DFS, BFS, UCS, A* search, and heuristic functions, the project provides a comprehensive understanding of search strategies in artificial intelligence. The custom search problems further enhance the project's ability to address specific challenges within the Pacman framework.
+
+# Perceptron Classification Project
+Introduction:
+
+I implemented a simple binary perceptron and trained it to perform simple classification. This task involves classifying tumors as malignant or benign (0 and 1 respectively) according to 30 different measurements. The goal was to achieve an accuracy of 70% or higher without using sklearn within the perceptron algorithm.
+
+Procedure:
+
+There are two phases for this project:
+
+1. Getting and loading the dataset.
+2. Implementing, training, and testing the perceptron.
+Dataset Loading
+
+I imported the data and split it into training and testing sets. The following lines load the UCI ML Breast Cancer Wisconsin (Diagnostic) Data Set, which contains 569 cases of tumors (each represented by 30 measurements). I split this data into 500 training cases and the rest for testing.
