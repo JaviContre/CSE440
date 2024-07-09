@@ -1,5 +1,6 @@
 # Pacman Search Algorithms Project
-Project Description
+Project Description:
+
 This project involves implementing and applying various search algorithms to solve different search problems within the Pacman AI framework. The goal is to navigate Pacman through mazes, collect food, and achieve specific goals using algorithms such as Depth-First Search (DFS), Breadth-First Search (BFS), Uniform Cost Search (UCS), and A* search. The project also includes the development of heuristic functions and custom search problems.
 
 Implemented Algorithms
